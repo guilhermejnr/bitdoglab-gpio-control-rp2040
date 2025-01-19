@@ -1,9 +1,11 @@
+#include "atv_2_strings_led_buzzer.h"
 #include <stdio.h>
 #include <string.h>
 #include "pico/stdlib.h"
 #include "hardware/watchdog.h"
 #include "hardware/structs/psm.h"
 #include "pico/bootrom.h"
+
 
 
 // Definir pinos dos LEDs e do buzzer
