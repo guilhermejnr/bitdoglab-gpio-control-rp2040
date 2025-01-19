@@ -34,7 +34,7 @@ O microcontrolador RP2040 interpreta comandos enviados via UART para realizar a�
 
 Aqui está o link para o vídeo de ensaio:
 
-[Vídeo de Ensaio](https://link-para-o-video.com)
+[Vídeo de Ensaio](https://drive.google.com/file/d/19VFByM8cPSuUZW5PklRVMvZbld-sg0iu/view?usp=sharing)
 
 ### Diagramas
 
@@ -64,9 +64,9 @@ Aqui está o link para o vídeo de ensaio:
 5. **Abra um terminal serial**:
     Use um terminal serial (como **PuTTY** ou **Tera Term**) para enviar comandos ao RP2040. Alguns exemplos de comandos:
 
-    - **Comando LED**: `led on` / `led off`
-    - **Comando Buzzer**: `buzzer on` / `buzzer off`
-
+    - **Comando LED**: `verd` / `verm`/ `azul`/ `todo`
+    - **Comando Buzzer**: `buzz`
+    - **Comando Botloader**: `rebo`
 
 ### Contribuições
 
