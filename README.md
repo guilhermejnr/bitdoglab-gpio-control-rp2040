@@ -9,6 +9,7 @@ Este repositório contém o código para controlar os pinos GPIO do microcontrol
 - **José Guilherme Marques**: Responsável revisar o código, aprovar os pull requests e criação do Readme.
 - **Lucas Fialho Xavier**: Responsável pela criação do código C e Diagrama Json
 - **Otiliano Junior**: Responsável por fazer o vídeo de ensaio.
+- **Bruno Schumacher**: Responsável por implementar testes.
 
 ### Componentes Necessários
 
