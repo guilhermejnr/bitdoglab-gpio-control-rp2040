@@ -10,6 +10,7 @@ Este repositório contém o código para controlar os pinos GPIO do microcontrol
 - **Lucas Fialho Xavier**: Responsável pela criação do código C e Diagrama Json
 - **Otiliano Junior**: Responsável por fazer o vídeo de ensaio.
 - **Bruno Schumacher**: Responsável por implementar testes.
+- **Caio Nunes**: Responsável por implementar testes.
 
 ### Componentes Necessários
 
